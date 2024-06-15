@@ -31,7 +31,7 @@
                             <div class="form-group">
                                 <label for="name">SEO Title</label>
                                 <input class="form-control" name="seotitle" id="seotitle"
-                                    value="{{ old('title', $posts->title) }}" required>
+                                    value="{{ old('title') }}" required>
                             </div>
                         </div>
                         <div class="mb-3">
@@ -82,11 +82,11 @@
                                         <label for="is_publish">Publish?</label>
                                         <br>
                                         <input type="radio" name="is_publish" id="is_publish_yes" value="Publish"
-                                            @if ($posts->is_published == 1) checked @endif>
+                                            >
                                         <label for="is_publish_yes">Yes</label>
 
                                         <input type="radio" name="is_publish" id="is_publish_no" value="Draft"
-                                            @if ($posts->is_published == 0) checked @endif>
+                                            >
                                         <label for="is_publish_no">No</label>
                                     </div>
                                 </div>
@@ -96,11 +96,11 @@
                                         <label for="active">Active?</label>
                                         <br>
                                         <input type="radio" name="active" id="active_yes" value="Yes"
-                                            @if ($posts->activeed == 1) checked @endif>
+                                            >
                                         <label for="active_yes">Yes</label>
 
                                         <input type="radio" name="active" id="active_no" value="No"
-                                            @if ($posts->activeed == 0) checked @endif>
+                                            >
                                         <label for="active_no">No</label>
                                     </div>
                             </div>
