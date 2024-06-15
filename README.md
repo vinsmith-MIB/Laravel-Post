@@ -27,3 +27,12 @@
 - Pengelola
   
 # Preview Tampilan Website:
+![Screenshot](https://github.com/vinsmith-MIB/Laravel-Post/blob/main/images/Screenshot%202024-06-15%20183127.png)
+![Screenshot](https://github.com/vinsmith-MIB/Laravel-Post/blob/main/images/Screenshot%202024-06-15%20183208.png)
+![Screenshot](https://github.com/vinsmith-MIB/Laravel-Post/blob/main/images/Screenshot%202024-06-15%20183224.png)
+![Screenshot](https://github.com/vinsmith-MIB/Laravel-Post/blob/main/images/Screenshot%202024-06-15%20183625.png)
+![Screenshot](https://github.com/vinsmith-MIB/Laravel-Post/blob/main/images/Screenshot%202024-06-15%20183633.png)
+![Screenshot](https://github.com/vinsmith-MIB/Laravel-Post/blob/main/images/Screenshot%202024-06-15%20183708.png)
+![Screenshot](https://github.com/vinsmith-MIB/Laravel-Post/blob/main/images/Screenshot%202024-06-15%20183849.png)
+![Screenshot](https://github.com/vinsmith-MIB/Laravel-Post/blob/main/images/Screenshot%202024-06-15%20183127.png)
+![Screenshot](https://github.com/vinsmith-MIB/Laravel-Post/blob/main/images/Screenshot%202024-06-15%20183140.png)
