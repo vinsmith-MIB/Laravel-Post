@@ -70,7 +70,7 @@ class UserRolePermissionSeeder extends Seeder
                 'id'            => 2,
                 'name'          => 'Kevin2',
                 'email'         => 'kevin2@gmail.com',
-                'password'      => Hash::make('muhazmi@gmail.com'),
+                'password'      => Hash::make('kevin2'),
                 'profile_image' => '20240416082509_.jpg',
                 'province_id'   => '16',
                 'city_id'       => '1671',
